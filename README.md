@@ -37,7 +37,7 @@ The Automov website offers the following features:
 3. **Car Models Page**: The car models page showcases an extensive collection of car models, complete with detailed information, specifications, and images. Users can browse and filter the car models based on various criteria.
 4. **User Dashboard Page**: The user dashboard page provides a personalized experience for each user. It displays information such as favorite car models, recent activity, and recommendations based on user preferences.
 
-##Site Images
+## Site Images
 
 ![image](https://github.com/itskartikay/automov-ip_project/assets/95382213/752ac05e-23ba-4616-9a92-5fcf0156bb36)
 
