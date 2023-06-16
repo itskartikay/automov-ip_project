@@ -40,13 +40,15 @@ The Automov website offers the following features:
 ##Site Images
 
 ![image](https://github.com/itskartikay/automov-ip_project/assets/95382213/752ac05e-23ba-4616-9a92-5fcf0156bb36)
-Home Page
+
+**(Home Page)**
 
 ![image](https://github.com/itskartikay/automov-ip_project/assets/95382213/7b7e7303-1b2f-4456-81eb-169dd3a92e92)
-Dashboard Page
+**(Dashboard Page)**
 
 ![image](https://github.com/itskartikay/automov-ip_project/assets/95382213/a5d53a89-34e1-4c14-bbac-e8734b6e315e)
-Shipping page
+
+**(Shipping Page)**
 
 ## Installation
 
