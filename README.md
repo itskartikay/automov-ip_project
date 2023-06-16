@@ -7,11 +7,11 @@ Automov is a web application developed as part of the Integrated Project (IP) ev
 - [Overview](#overview)
 - [Team Members](#team-members)
 - [Features](#features)
+- [Site Images](#site-images)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies](#technologies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -36,6 +36,17 @@ The Automov website offers the following features:
 2. **Login Page**: The login page allows users to securely log into their accounts or create new accounts if they are new to the website.
 3. **Car Models Page**: The car models page showcases an extensive collection of car models, complete with detailed information, specifications, and images. Users can browse and filter the car models based on various criteria.
 4. **User Dashboard Page**: The user dashboard page provides a personalized experience for each user. It displays information such as favorite car models, recent activity, and recommendations based on user preferences.
+
+##Site Images
+
+![image](https://github.com/itskartikay/automov-ip_project/assets/95382213/752ac05e-23ba-4616-9a92-5fcf0156bb36)
+Home Page
+
+![image](https://github.com/itskartikay/automov-ip_project/assets/95382213/7b7e7303-1b2f-4456-81eb-169dd3a92e92)
+Dashboard Page
+
+![image](https://github.com/itskartikay/automov-ip_project/assets/95382213/a5d53a89-34e1-4c14-bbac-e8734b6e315e)
+Shipping page
 
 ## Installation
 
